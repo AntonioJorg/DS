@@ -1,4 +1,4 @@
-Resumo Completo do Trabalho Realizado
+
 Neste notebook, embarcamos em uma jornada completa de análise e modelagem de dados, abordando tanto problemas de classificação quanto de regressão. Utilizamos datasets populares do scikit-learn para demonstrar o pipeline de trabalho, que incluiu desde a compreensão inicial dos dados até a avaliação e comparação de diferentes algoritmos de Machine Learning.
 
 Classificação
